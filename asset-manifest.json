@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LeoGrigoryan/mgnailstudio.git/static/css/main.c7b6743d.css",
-    "main.js": "/LeoGrigoryan/mgnailstudio.git/static/js/main.84f49619.js",
-    "static/media/5.jpg": "/LeoGrigoryan/mgnailstudio.git/static/media/5.1bc8d277ce6bb23c61f6.jpg",
-    "static/media/4.jpg": "/LeoGrigoryan/mgnailstudio.git/static/media/4.0e85a4815206b5e5bda4.jpg",
-    "static/media/1.jpg": "/LeoGrigoryan/mgnailstudio.git/static/media/1.135478b8425e8d7e2b63.jpg",
-    "static/media/6.jpg": "/LeoGrigoryan/mgnailstudio.git/static/media/6.1c48761b129825beec9c.jpg",
-    "static/media/YatraOne-Regular.ttf": "/LeoGrigoryan/mgnailstudio.git/static/media/YatraOne-Regular.1a5c29426ff2e36dc5cc.ttf",
-    "static/media/7.jpg": "/LeoGrigoryan/mgnailstudio.git/static/media/7.d8d247d7ba6ad8073eb7.jpg",
-    "static/media/2.jpg": "/LeoGrigoryan/mgnailstudio.git/static/media/2.654f5c297bfc801d715e.jpg",
-    "static/media/3.jpg": "/LeoGrigoryan/mgnailstudio.git/static/media/3.7caeec5fb2a37c08d80e.jpg",
-    "static/media/logo.png": "/LeoGrigoryan/mgnailstudio.git/static/media/logo.2c3aaa1544b3bae24ccf.png",
-    "index.html": "/LeoGrigoryan/mgnailstudio.git/index.html",
-    "main.c7b6743d.css.map": "/LeoGrigoryan/mgnailstudio.git/static/css/main.c7b6743d.css.map",
-    "main.84f49619.js.map": "/LeoGrigoryan/mgnailstudio.git/static/js/main.84f49619.js.map"
+    "main.css": "/mgnailstudio/static/css/main.64d03fb1.css",
+    "main.js": "/mgnailstudio/static/js/main.080dd38f.js",
+    "static/media/5.jpg": "/mgnailstudio/static/media/5.1bc8d277ce6bb23c61f6.jpg",
+    "static/media/4.jpg": "/mgnailstudio/static/media/4.0e85a4815206b5e5bda4.jpg",
+    "static/media/1.jpg": "/mgnailstudio/static/media/1.135478b8425e8d7e2b63.jpg",
+    "static/media/6.jpg": "/mgnailstudio/static/media/6.1c48761b129825beec9c.jpg",
+    "static/media/YatraOne-Regular.ttf": "/mgnailstudio/static/media/YatraOne-Regular.1a5c29426ff2e36dc5cc.ttf",
+    "static/media/7.jpg": "/mgnailstudio/static/media/7.d8d247d7ba6ad8073eb7.jpg",
+    "static/media/2.jpg": "/mgnailstudio/static/media/2.654f5c297bfc801d715e.jpg",
+    "static/media/3.jpg": "/mgnailstudio/static/media/3.7caeec5fb2a37c08d80e.jpg",
+    "static/media/logo.png": "/mgnailstudio/static/media/logo.2c3aaa1544b3bae24ccf.png",
+    "index.html": "/mgnailstudio/index.html",
+    "main.64d03fb1.css.map": "/mgnailstudio/static/css/main.64d03fb1.css.map",
+    "main.080dd38f.js.map": "/mgnailstudio/static/js/main.080dd38f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7b6743d.css",
-    "static/js/main.84f49619.js"
+    "static/css/main.64d03fb1.css",
+    "static/js/main.080dd38f.js"
   ]
 }
