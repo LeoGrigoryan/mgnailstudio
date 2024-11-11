@@ -1,0 +1,11 @@
+Model Information:
+* title:	Female Hand
+* source:	https://sketchfab.com/3d-models/female-hand-0144539af191427fb6b8185a17bac675
+* author:	yanix (https://sketchfab.com/yanix)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Female Hand" (https://sketchfab.com/3d-models/female-hand-0144539af191427fb6b8185a17bac675) by yanix (https://sketchfab.com/yanix) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

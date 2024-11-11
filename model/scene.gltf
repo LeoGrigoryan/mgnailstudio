@@ -1,0 +1,314 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        85.73741912841797,
+        61.964447021484375,
+        25.316532135009766
+      ],
+      "min": [
+        -84.02863311767578,
+        -66.68618774414063,
+        -39.21347427368164
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9984342455863953,
+        0.99991375207901,
+        0.9999974966049194
+      ],
+      "min": [
+        -0.9951246976852417,
+        -0.9999504089355469,
+        -0.9999852180480957
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 255525,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        82.89825439453125,
+        82.4124984741211,
+        25.316532135009766
+      ],
+      "min": [
+        -99.413330078125,
+        -53.05885696411133,
+        -29.14380645751953
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.997018039226532,
+        0.9999845027923584,
+        0.9999974966049194
+      ],
+      "min": [
+        -0.9995956420898438,
+        -0.9999504089355469,
+        -0.9999707937240601
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1022100,
+      "componentType": 5125,
+      "count": 260346,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 11836,
+      "max": [
+        59.771793365478516,
+        38.85451126098633,
+        23.448774337768555
+      ],
+      "min": [
+        -102.9745101928711,
+        -37.73224639892578,
+        -12.854954719543457
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3287568,
+      "componentType": 5126,
+      "count": 11836,
+      "max": [
+        0.8353988528251648,
+        0.9999278783798218,
+        0.999988317489624
+      ],
+      "min": [
+        -0.9983627796173096,
+        -0.9998035430908203,
+        -0.9999900460243225
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2063484,
+      "componentType": 5125,
+      "count": 61905,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "yanix (https://sketchfab.com/yanix)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/female-hand-0144539af191427fb6b8185a17bac675",
+      "title": "Female Hand"
+    },
+    "generator": "Sketchfab-16.25.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2311104,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3429600,
+      "byteOffset": 2311104,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5740704,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Scene_-_Root",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Retopo_jul_hand__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Retopo_jul_hand__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Retopo_jul_hand__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "7f7ecccfc0184773ad2aa8fc28287edf.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        3.1307055489432827,
+        -4.4757508920909315,
+        0.457677988970882,
+        0.0,
+        4.499090484713682,
+        3.1144646232824984,
+        -0.3184765996208566,
+        0.0,
+        3.5317775920185045e-09,
+        0.5575808748524462,
+        5.452726910875092,
+        0.0,
+        -21.40231704711914,
+        458.6898193359375,
+        33.99190902709961,
+        1.0
+      ],
+      "name": "Retopo_jul_hand"
+    },
+    {
+      "mesh": 0,
+      "name": "Retopo_jul_hand__0"
+    },
+    {
+      "mesh": 1,
+      "name": "Retopo_jul_hand__0"
+    },
+    {
+      "mesh": 2,
+      "name": "Retopo_jul_hand__0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
